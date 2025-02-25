@@ -19,10 +19,6 @@ migrating to another technology stack.
 - Support and maintenance.
   <br />
 
-### Languages and Tools
-
-[<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width=35px>][react] [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width=35px>][redux]  [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" width=35px>][typescript] [<img src="https://cdn.icon-icons.com/icons2/910/PNG/512/html-5_icon-icons.com_71170.png" width=35px>][html] [<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width=35px>][css] [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="35px">][mongodb]
-
 
 ---
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=al-vorotov&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
